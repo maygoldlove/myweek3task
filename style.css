@@ -1,0 +1,81 @@
+.container{display:flex-row}
+
+pre{font-family: 'DM Serif Display', serif;font-size: 16px;}
+
+.menuheader{height:50px;width:1440px;display:flex; justify-content:flex-end;background:hsl(0, 0%, 98%)
+}
+
+.menuheader0{margin-right: 750px;margin-top:7px}
+
+.menuheader1{margin-right:20px;color:hsl(273, 4%, 51%);margin-top:7px}
+
+.menuheader2{margin-right:20px;color:hsl(273, 4%, 51%);margin-top:7px}
+
+.menuheader3{margin-right:50px;color:hsl(273, 4%, 51%);margin-top:7px}
+
+.menuheader4{margin-top:7px;background:transparent;width:200px;height:20px}
+
+
+.header{background-color: hsl(256, 26%, 20%)
+;width:1440px;
+height: 700px;}
+
+
+
+.left-image{margin-top: 150px;margin-left:-50px;}
+
+
+.my-content{margin-left:70px;margin-top:150px; color:white;}
+
+.bbutton{margin-left:90px;background-color:transparent;color:white;width:150px;height:50px;margin-bottom:-30px}
+
+.my-header{margin-left:80px;margin-top:80px;
+}
+#myh1{font-weight:700px;font-family: 'Karla', sans-serif;color:white;font-size:70px}
+
+.right-image1{margin-left:500px;margin-bottom:30px}
+
+.right-image{margin-left:900px; margin-top:-700px}
+
+.header1{margin-left: 100px; color:(270, 9%, 17%);font-family: 'DM Serif Display', serif;font-size:60px;font-weight:bold}
+
+.iconsection{display:flex; justify-content: space-evenly; width:1440px;margin-left:-150px}
+
+.sap{width:1440px;display:flex;justify-content:space-evenly;margin-left:-150px;}
+
+.mypara{width:1440px;display:flex;justify-content:space-evenly;color:hsl(256, 26%, 20%)}
+
+.main{height:300px;width:1200px;background:hsl(256,26%,20%);margin-left:100px;}
+
+.myfindout{padding-top:70px; padding-left:300px;color:white;font-family: 'Karla', sans-serif; font-size:50px;font-weight:400px}
+
+.myb{float:right;margin-top:-70px;margin-right:200px;background-color:transparent;width:150px;height:50px;color:white;}
+
+.main-right{float:right;margin-top:-200px;margin-right:-10px;width:250px}
+
+.instagram{float:right;margin-right:40px;}
+
+.pininterest{float: right;margin-right:40px}
+
+.twitter{float:right;margin-right:40px;}
+
+.facebook{float:right;margin-right:40px}
+
+.subfooter{height: 50px;
+    background: hsl(0, 0%, 98%);padding:70px}
+
+.contact-us{display:flex; justify-content:space-evenly;background:hsl(0, 0%, 98%);color:hsl(273, 4%, 51%)}
+
+.mycontact-us{display:flex; justify-content: space-evenly;background:hsl(0, 0%, 98%);color:hsl(256, 26%, 20%)}
+
+.image-footer{float:left;margin-top:-250px;margin-left:150px}
+
+.bbutton:hover{background-color:red};
+footer{width: 1440px; margin-left:-150}
+
+@media screen and (max-width:375px){.container{flex-direction:column;}
+
+
+
+  
+  
